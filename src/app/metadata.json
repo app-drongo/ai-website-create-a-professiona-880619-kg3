@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Home",
+    "route": "/",
+    "title": "Home | create-a-professional-6438",
+    "description": "Home page for create-a-professional-6438"
+  },
+  {
+    "name": "Properties",
+    "route": "/properties",
+    "title": "Properties | create-a-professional-6438",
+    "description": "Properties page for create-a-professional-6438"
+  },
+  {
+    "name": "Property Detail",
+    "route": "/properties/:id",
+    "title": "Property Detail | create-a-professional-6438",
+    "description": "Property Detail page for create-a-professional-6438"
+  },
+  {
+    "name": "About",
+    "route": "/about",
+    "title": "About | create-a-professional-6438",
+    "description": "About page for create-a-professional-6438"
+  },
+  {
+    "name": "Booking",
+    "route": "/book",
+    "title": "Booking | create-a-professional-6438",
+    "description": "Booking page for create-a-professional-6438"
+  }
+]
